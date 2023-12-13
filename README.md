@@ -1,6 +1,6 @@
 # Netflix_Dashboard
 
-This dashboard is been created using Power BI. It can be used to identify trends, track the performance of different content types and genres, and make informed decisions about future programming strategies.
+This dashboard is been created using __Power BI__. It can be used to identify trends, track the performance of different content types and genres, and make informed decisions about future programming strategies.
 
 # Objective and Insights: 
 
